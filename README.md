@@ -1,4 +1,4 @@
-# Obsidia Expansion — RimWorld Mod Series Wiki
+# Obsidia Expansion - RimWorld Mod Series Wiki
 
 This repository hosts the **official community wiki** for the **Obsidia Expansion** mod series for *RimWorld*.
 
